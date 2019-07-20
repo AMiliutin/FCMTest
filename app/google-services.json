@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1064029599581",
+    "firebase_url": "https://potent-odyssey-247115.firebaseio.com",
+    "project_id": "potent-odyssey-247115",
+    "storage_bucket": "potent-odyssey-247115.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064029599581:android:435dd9a7a60fd3f7",
+        "android_client_info": {
+          "package_name": "com.amiliutin.fcmtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1064029599581-ccbqcc3dgf5r5h2uq25v4ds86p24me1k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.amiliutin.fcmtest",
+            "certificate_hash": "7d12c7bba1447862a692b420de67ec8e4f6820fe"
+          }
+        },
+        {
+          "client_id": "1064029599581-k03and5mb1d209sai5ep6i3vmaj7ibsu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQSqihCtYOwosX-23NFGmNE-_dsDPOyME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1064029599581-k03and5mb1d209sai5ep6i3vmaj7ibsu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
